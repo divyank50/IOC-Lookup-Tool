@@ -24,8 +24,10 @@ This Chrome extension tool was created to find quick information a particular IO
 <img width="1341" alt="Screenshot 2025-02-12 at 10 07 16 PM" src="https://github.com/user-attachments/assets/607cdb85-1afc-4897-8a6f-1c67a19bb058" />
 
 
+
+
 To add this extension into your browser, perform the follwing:
-- Download the Folder
+- Download the Folder (Cyber Threat Intel Lookup.zip)
 - Go to chrome://extensions/
 - Enable "Developer Mode" on the Top Right
 - Click on "Load Unpacked" button
