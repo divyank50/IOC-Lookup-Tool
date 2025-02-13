@@ -22,3 +22,13 @@ This Chrome extension tool was created to find quick information a particular IO
 3. _URLHaus_
 - URL [Example: http{:}//180.115.79.215:43080/bin.sh]
 <img width="1341" alt="Screenshot 2025-02-12 at 10 07 16 PM" src="https://github.com/user-attachments/assets/607cdb85-1afc-4897-8a6f-1c67a19bb058" />
+
+
+To add this extension into your browser, perform the follwing:
+- Download the Folder
+- Go to chrome://extensions/
+- Enable "Developer Mode" on the Top Right
+- Click on "Load Unpacked" button
+- Select the folder that you download
+- Now you should see the extension called "Cyber Threat Intel Lookup", make sure its enabled
+- Now you can pin the extension for ease of use
