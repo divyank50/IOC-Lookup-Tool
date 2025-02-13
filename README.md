@@ -2,7 +2,7 @@
 
 This is a IOC Lookup Tool, that is created using ThreatFox, URLHaus, and MalwareBazaar APIs.
 This Chrome extension tool was created to find quick information a particular IOC and its associated information.
-
+This tools currently only shows details about IOC's that are part of the ThreatFox, MalwareBazaar and URLHaus. Additional Threat Intel integreations are work in progress.
 
 **Tool Usage:**
 ** The examples used below are real IOC's, please don't click or interact with them, if you do I won't be responsible for anything.
