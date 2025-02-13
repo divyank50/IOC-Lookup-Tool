@@ -1,12 +1,16 @@
 # IOC-Lookup-Tool
 
-This is a IOC Lookup Tool, that is created using ThreatFox, URLHaus, and MalwareBazaar APIs.
-This Chrome extension tool was created to find quick information a particular IOC and its associated information.
-This tools currently only shows details about IOC's that are part of the ThreatFox, MalwareBazaar and URLHaus. Additional Threat Intel integreations are work in progress.
+- The Cyber Threat Intel Lookup is a Chrome Extension designed to help cybersecurity professionals, threat analysts, and researchers quickly investigate Indicators of Compromise (IOCs). The tool allows users to check file hashes, IP addresses, and URLs against three major threat intelligence databases:
 
+  MalwareBazaar (for malware sample hashes)
+  ThreatFox (for IPs and domains associated with cyber threats)
+  URLHaus (for malicious URL analysis)
+- By leveraging these open-source threat intelligence APIs, this extension helps users detect, analyze, and respond to potential security threats in real-time—directly from their browser. 
+- Additional Threat Intel integreations are work in progress.
+
+
+**The examples used below are real IOC's, please don't click or interact with them, if you do I won't be responsible for anything.**
 **Tool Usage:**
-** The examples used below are real IOC's, please don't click or interact with them, if you do I won't be responsible for anything.
-
 1. _ThreatFox_
 - IPAddress:Port [Example: 54.208{.}144.249:443]
 - URL/Domain [Example: www{.}deskschoolpro.com OR albummgronakw{.}shop]
