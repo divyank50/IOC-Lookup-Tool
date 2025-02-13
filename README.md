@@ -26,7 +26,7 @@ This tools currently only shows details about IOC's that are part of the ThreatF
 
 
 
-To add this extension into your browser, perform the follwing:
+To add this extension into your browser, perform the following:
 - [Download the Folder] ([Cyber Threat Intel Lookup.zip](https://github.com/divyank50/IOC-Lookup-Tool/blob/main/Cyber%20Threat%20Intel%20Lookup.zip))
 - Go to chrome://extensions/
 - Enable "Developer Mode" on the Top Right
