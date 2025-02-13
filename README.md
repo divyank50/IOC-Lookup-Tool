@@ -27,7 +27,7 @@ This Chrome extension tool was created to find quick information a particular IO
 
 
 To add this extension into your browser, perform the follwing:
-- Download the Folder (Cyber Threat Intel Lookup.zip)
+- [Download the Folder] ([Cyber Threat Intel Lookup.zip](https://github.com/divyank50/IOC-Lookup-Tool/blob/main/Cyber%20Threat%20Intel%20Lookup.zip))
 - Go to chrome://extensions/
 - Enable "Developer Mode" on the Top Right
 - Click on "Load Unpacked" button
