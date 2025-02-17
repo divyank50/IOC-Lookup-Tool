@@ -29,20 +29,20 @@
 <img width="1341" alt="Screenshot 2025-02-12 at 10 07 16 PM" src="https://github.com/user-attachments/assets/607cdb85-1afc-4897-8a6f-1c67a19bb058" />
 
 4. _VirusTotal_
-   <img width="1467" alt="Screenshot 2025-02-17 at 2 54 21 PM" src="https://github.com/user-attachments/assets/e906b983-eea0-4e6c-a72b-ddc1f11fcba9" />
    <img width="1286" alt="Screenshot 2025-02-17 at 2 55 59 PM" src="https://github.com/user-attachments/assets/154ca047-ee10-4316-bf80-92cf3e99c387" />
+   <img width="1236" alt="Screenshot 2025-02-17 at 2 59 39 PM" src="https://github.com/user-attachments/assets/1807ef48-7849-49a9-9a38-9281abfde4c5" />
 
 
 
-
-
-
+**TOOL USAGE INFO:**
 To add this extension into your browser, perform the following:
 - [Download the Folder] ([Cyber Threat Intel Lookup.zip](https://github.com/divyank50/IOC-Lookup-Tool/blob/main/Cyber%20Threat%20Intel%20Lookup.zip))
+- Extract the folder
+- On line 148 and 200 in background.js file, add the VT API KEY
 - Go to chrome://extensions/
 - Enable "Developer Mode" on the Top Right
 - Click on "Load Unpacked" button
 - Select the folder that you download
 - Now you should see the extension called "Cyber Threat Intel Lookup", make sure its enabled
 - Now you can pin the extension for ease of use
-- On line 148 and 200 in background.js file, add the VT API KEY
+
