@@ -38,7 +38,7 @@
 To add this extension into your browser, perform the following:
 - [Download the Folder] ([Cyber Threat Intel Lookup.zip](https://github.com/divyank50/IOC-Lookup-Tool/blob/main/Cyber%20Threat%20Intel%20Lookup.zip))
 - Extract the folder
-- On line 148 and 200 in background.js file, add the VT API KEY
+- On line 148 and 200 in background.js file, add the VT API KEY and save the file
 - Go to chrome://extensions/
 - Enable "Developer Mode" on the Top Right
 - Click on "Load Unpacked" button
