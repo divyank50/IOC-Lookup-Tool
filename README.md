@@ -1,4 +1,4 @@
-# IOC-Lookup-Tool
+# ThreatIntel Lookup Tool
 
 - The Cyber Threat Intel Lookup is a Chrome Extension designed to help cybersecurity professionals, threat analysts, and researchers quickly investigate Indicators of Compromise (IOCs). The tool allows users to check file hashes, IP addresses, and URLs against three major threat intelligence databases:
 
